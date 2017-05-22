@@ -1,0 +1,7 @@
+{
+  "name": "B",
+  "target": "b",
+  "dependencies": {
+    "git@github.com:njlr/test-lib-c.git": "*"
+  }
+}
