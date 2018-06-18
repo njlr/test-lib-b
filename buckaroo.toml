@@ -1,0 +1,3 @@
+[[dependency]]
+name = "github.com/njlr/test-lib-c"
+version = "*"
