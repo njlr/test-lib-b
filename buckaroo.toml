@@ -1,3 +1,5 @@
+targets = [ "//:b" ]
+
 [[dependency]]
 package = "github.com/njlr/test-lib-c"
 version = "*"
